@@ -1,4 +1,4 @@
 # Contributors
 
-- Lukundo Nakamba
-- Andrew Mweene
+- Lukundo Nakamba - Owner
+- Andrew Mweene - Contributor
